@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>gopher johwanghee</title>
+    <title>Gopher johwanghee</title>
     <link>http://jodev.net/index.xml</link>
-    <description>Recent content on gopher johwanghee</description>
+    <description>Recent content on Gopher johwanghee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 23 Feb 2017 10:16:06 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 23 Feb 2017 15:25:57 +0900</lastBuildDate>
     <atom:link href="http://jodev.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ascii banner</title>
+      <link>http://jodev.net/posts/2017-02-23-ascii-banner/</link>
+      <pubDate>Thu, 23 Feb 2017 15:25:57 +0900</pubDate>
+      
+      <guid>http://jodev.net/posts/2017-02-23-ascii-banner/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://patorjk.com/software/taag&#34;&gt;http://patorjk.com/software/taag&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>bookmarks go</title>
@@ -45,25 +57,27 @@ Ellipsis, GenerateRandomASCIIString, GenerateRandomAlphaOnlyString, InSlice, She
     </item>
     
     <item>
-      <title>about</title>
+      <title></title>
       <link>http://jodev.net/about/</link>
       <pubDate>Tue, 07 Feb 2017 16:00:04 +0900</pubDate>
       
       <guid>http://jodev.net/about/</guid>
       <description>&lt;pre&gt;&lt;code&gt;
-       $$$$$$\   $$$$$$\           $$$$$\  $$$$$$\  $$$$$$$\  $$$$$$$$\ $$\    $$\ 
-      $$  __$$\ $$  __$$\          \__$$ |$$  __$$\ $$  __$$\ $$  _____|$$ |   $$ |
-      $$ /  \__|$$ /  $$ |            $$ |$$ /  $$ |$$ |  $$ |$$ |      $$ |   $$ |
-      $$ |$$$$\ $$ |  $$ |            $$ |$$ |  $$ |$$ |  $$ |$$$$$\    \$$\  $$  |
-      $$ |\_$$ |$$ |  $$ |      $$\   $$ |$$ |  $$ |$$ |  $$ |$$  __|    \$$\$$  / 
-      $$ |  $$ |$$ |  $$ |      $$ |  $$ |$$ |  $$ |$$ |  $$ |$$ |        \$$$  /  
-      \$$$$$$  | $$$$$$  |      \$$$$$$  | $$$$$$  |$$$$$$$  |$$$$$$$$\    \$  /   
-       \______/  \______/        \______/  \______/ \_______/ \________|    \_/    
+    $$$$$\  $$$$$$\  $$$$$$$\  $$$$$$$$\ $$\    $$\ 
+    \__$$ |$$  __$$\ $$  __$$\ $$  _____|$$ |   $$ |
+       $$ |$$ /  $$ |$$ |  $$ |$$ |      $$ |   $$ |
+       $$ |$$ |  $$ |$$ |  $$ |$$$$$\    \$$\  $$  |
+ $$\   $$ |$$ |  $$ |$$ |  $$ |$$  __|    \$$\$$  / 
+ $$ |  $$ |$$ |  $$ |$$ |  $$ |$$ |        \$$$  /  
+ \$$$$$$  | $$$$$$  |$$$$$$$  |$$$$$$$$\    \$  /   
+  \______/  \______/ \_______/ \________|    \_/    
 
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://vinyl-x.com/&#34;&gt;vinyl-x&lt;/a&gt; web engineer&lt;br&gt;
-바이널엑스 다니는 무늬만 go개발자 입니다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://vinyl-x.com/&#34;&gt;vinyl-x&lt;/a&gt; web engineer&lt;/li&gt;
+&lt;li&gt;바이널엑스 다니는 무늬만 go개발자 입니다.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
