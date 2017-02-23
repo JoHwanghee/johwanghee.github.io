@@ -8,7 +8,7 @@
 
 <meta name="description" content="">
 
-<title>gopher johwanghee</title>
+<title>.Vimrc</title>
 <meta name="generator" content="Hugo 0.19-DEV" />
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.1.0/styles/pojoaque.min.css">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.1.0/highlight.min.js"></script>
@@ -27,23 +27,25 @@
         <h3 data-open="last-posts">gopher johwanghee - Most recent posts</h3>
         <ul>
             
-            <li><a href="http://jodev.net/bookmarks/stringutils-2017-02-23/">stringutils</a></li>
+            <li><a href="http://jodev.net/spf13-vim-3-0-release-and-new-website/">bookmarks</a></li>
             
-            <li><a href="http://jodev.net/about/">about</a></li>
+            <li><a href="http://jodev.net/about.1/">about</a></li>
             
-            <li><a href="http://jodev.net/categories/about/">About</a></li>
+            <li><a href="http://jodev.net/about.10/">about</a></li>
             
-            <li><a href="http://jodev.net/categories/bookmarks/">Bookmarks</a></li>
+            <li><a href="http://jodev.net/about.11/">about</a></li>
             
-            <li><a href="http://jodev.net/bookmarks/">Bookmarks</a></li>
+            <li><a href="http://jodev.net/about.12/">about</a></li>
             
-            <li><a href="http://jodev.net/categories/">Categories</a></li>
+            <li><a href="http://jodev.net/about.13/">about</a></li>
             
-            <li><a href="http://jodev.net/tags/stringutils/">Stringutils</a></li>
+            <li><a href="http://jodev.net/about.14/">about</a></li>
             
-            <li><a href="http://jodev.net/tags/">Tags</a></li>
+            <li><a href="http://jodev.net/about.15/">about</a></li>
             
-            <li><a href="http://jodev.net/">gopher johwanghee</a></li>
+            <li><a href="http://jodev.net/about.2/">about</a></li>
+            
+            <li><a href="http://jodev.net/about.3/">about</a></li>
             
         </ul>
     </div>
@@ -53,7 +55,13 @@
         <h3 data-open="tags">Tags</h3>
         <ul class="tags">
             
-            <li><a href="/tags/stringutils">stringutils</a></li>
+            <li><a href="/tags/.vimrc">.vimrc</a></li>
+            
+            <li><a href="/tags/plugins">plugins</a></li>
+            
+            <li><a href="/tags/spf13-vim">spf13-vim</a></li>
+            
+            <li><a href="/tags/vim">vim</a></li>
             
         </ul>
     </div>
@@ -64,9 +72,9 @@
         <h3 data-open="categories">Categories</h3>
         <ul class="categories">
             
-            <li><a href="/categories/about">about</a></li>
+            <li><a href="/categories/development">development</a></li>
             
-            <li><a href="/categories/bookmarks">bookmarks</a></li>
+            <li><a href="/categories/vim">vim</a></li>
             
         </ul>
     </div>
@@ -80,14 +88,8 @@
 <div class="articles-list">
     
     <article>
-        <h3><a href="http://jodev.net/bookmarks/stringutils-2017-02-23/">stringutils</a> - 2017-02-23 10:16:06</h3>
-        https://godoc.org/github.com/docker/docker/pkg/stringutils Ellipsis GenerateRandomASCIIString GenerateRandomAlphaOnlyString InSlice ShellQuoteArguments Truncate
-    </article>
-    
-    <article>
-        <h3><a href="http://jodev.net/about/">about</a> - 2017-02-07 16:00:04</h3>
-        vinyl-x web engineer
-바이널엑스 다니는 무늬만 go개발자 입니다.
+        <h3><a href="http://jodev.net/spf13-vim-3-0-release-and-new-website/">bookmarks</a> - 2017-02-23 10:16:06</h3>
+        av
     </article>
     
 </div>
