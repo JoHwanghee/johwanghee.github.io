@@ -9,18 +9,27 @@
     <atom:link href="http://jodev.net/categories/bookmarks/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>stringutils</title>
-      <link>http://jodev.net/bookmarks/stringutils-2017-02-23/</link>
+      <title>bookmarks go</title>
+      <link>http://jodev.net/bookmarks/go/</link>
       <pubDate>Thu, 23 Feb 2017 10:16:06 +0900</pubDate>
       
-      <guid>http://jodev.net/bookmarks/stringutils-2017-02-23/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://godoc.org/github.com/docker/docker/pkg/stringutils&#34;&gt;https://godoc.org/github.com/docker/docker/pkg/stringutils&lt;/a&gt;
-Ellipsis
-GenerateRandomASCIIString
-GenerateRandomAlphaOnlyString
-InSlice
-ShellQuoteArguments
-Truncate&lt;/p&gt;
+      <guid>http://jodev.net/bookmarks/go/</guid>
+      <description>
+
+&lt;h3 id=&#34;stringutils&#34;&gt;stringutils&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://godoc.org/github.com/docker/docker/pkg/stringutils&#34;&gt;https://godoc.org/github.com/docker/docker/pkg/stringutils&lt;/a&gt;&lt;br&gt;
+Ellipsis, GenerateRandomASCIIString, GenerateRandomAlphaOnlyString, InSlice, ShellQuoteArguments, Truncate&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>bookmarks tools</title>
+      <link>http://jodev.net/bookmarks/tools/</link>
+      <pubDate>Thu, 23 Feb 2017 10:16:06 +0900</pubDate>
+      
+      <guid>http://jodev.net/bookmarks/tools/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://affinelayer.com/pixsrv/index.html&#34;&gt;http://affinelayer.com/pixsrv/index.html&lt;/a&gt; - 이미지 자동 그리기 툴&lt;/p&gt;
 </description>
     </item>
     
