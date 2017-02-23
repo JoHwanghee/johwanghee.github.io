@@ -16,6 +16,11 @@
       <guid>http://jodev.net/bookmarks/go/</guid>
       <description>
 
+&lt;h3 id=&#34;banner&#34;&gt;banner&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/dimiro1/banner&#34;&gt;https://github.com/dimiro1/banner&lt;/a&gt;&lt;br&gt;
+Add beautiful banners into your Go applications&lt;/p&gt;
+
 &lt;h3 id=&#34;stringutils&#34;&gt;stringutils&lt;/h3&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://godoc.org/github.com/docker/docker/pkg/stringutils&#34;&gt;https://godoc.org/github.com/docker/docker/pkg/stringutils&lt;/a&gt;&lt;br&gt;

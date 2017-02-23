@@ -17,6 +17,11 @@
       <guid>http://jodev.net/bookmarks/go/</guid>
       <description>
 
+&lt;h3 id=&#34;banner&#34;&gt;banner&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/dimiro1/banner&#34;&gt;https://github.com/dimiro1/banner&lt;/a&gt;&lt;br&gt;
+Add beautiful banners into your Go applications&lt;/p&gt;
+
 &lt;h3 id=&#34;stringutils&#34;&gt;stringutils&lt;/h3&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://godoc.org/github.com/docker/docker/pkg/stringutils&#34;&gt;https://godoc.org/github.com/docker/docker/pkg/stringutils&lt;/a&gt;&lt;br&gt;
@@ -30,7 +35,8 @@ Ellipsis, GenerateRandomASCIIString, GenerateRandomAlphaOnlyString, InSlice, She
       <pubDate>Thu, 23 Feb 2017 10:16:06 +0900</pubDate>
       
       <guid>http://jodev.net/bookmarks/tools/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://affinelayer.com/pixsrv/index.html&#34;&gt;http://affinelayer.com/pixsrv/index.html&lt;/a&gt; - 이미지 자동 그리기 툴&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.text-image.com/convert/ascii.html&#34;&gt;http://www.text-image.com/convert/ascii.html&lt;/a&gt; - 이미지를 아스키 코드로 변경
+&lt;a href=&#34;http://affinelayer.com/pixsrv/index.html&#34;&gt;http://affinelayer.com/pixsrv/index.html&lt;/a&gt; - 이미지 자동 그리기 툴&lt;/p&gt;
 </description>
     </item>
     
@@ -40,7 +46,19 @@ Ellipsis, GenerateRandomASCIIString, GenerateRandomAlphaOnlyString, InSlice, She
       <pubDate>Tue, 07 Feb 2017 16:00:04 +0900</pubDate>
       
       <guid>http://jodev.net/about/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://vinyl-x.com/&#34;&gt;vinyl-x&lt;/a&gt; web engineer&lt;br&gt;
+      <description>&lt;pre&gt;&lt;code&gt;
+       $$$$$$\   $$$$$$\           $$$$$\  $$$$$$\  $$$$$$$\  $$$$$$$$\ $$\    $$\ 
+      $$  __$$\ $$  __$$\          \__$$ |$$  __$$\ $$  __$$\ $$  _____|$$ |   $$ |
+      $$ /  \__|$$ /  $$ |            $$ |$$ /  $$ |$$ |  $$ |$$ |      $$ |   $$ |
+      $$ |$$$$\ $$ |  $$ |            $$ |$$ |  $$ |$$ |  $$ |$$$$$\    \$$\  $$  |
+      $$ |\_$$ |$$ |  $$ |      $$\   $$ |$$ |  $$ |$$ |  $$ |$$  __|    \$$\$$  / 
+      $$ |  $$ |$$ |  $$ |      $$ |  $$ |$$ |  $$ |$$ |  $$ |$$ |        \$$$  /  
+      \$$$$$$  | $$$$$$  |      \$$$$$$  | $$$$$$  |$$$$$$$  |$$$$$$$$\    \$  /   
+       \______/  \______/        \______/  \______/ \_______/ \________|    \_/    
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://vinyl-x.com/&#34;&gt;vinyl-x&lt;/a&gt; web engineer&lt;br&gt;
 바이널엑스 다니는 무늬만 go개발자 입니다.&lt;/p&gt;
 </description>
     </item>
