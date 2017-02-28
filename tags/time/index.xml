@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Time on Gopher johwanghee</title>
-    <link>https://jodev.net/tags/time/index.xml</link>
+    <link>https://johwanghee.github.io/tags/time/index.xml</link>
     <description>Recent content in Time on Gopher johwanghee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <atom:link href="https://jodev.net/tags/time/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://johwanghee.github.io/tags/time/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>go에서 time사용법 관련 짧막한 글</title>
-      <link>https://jodev.net/post/2017-02-28-time/</link>
+      <link>https://johwanghee.github.io/post/2017-02-28-time/</link>
       <pubDate>Tue, 28 Feb 2017 11:00:38 +0900</pubDate>
       
-      <guid>https://jodev.net/post/2017-02-28-time/</guid>
+      <guid>https://johwanghee.github.io/post/2017-02-28-time/</guid>
       <description>&lt;p&gt;go에서 시간을 다룰때 제일 먼저 당황하는건 format이 숫자 형식 이란것이다.(나만 그런가&amp;hellip;)&lt;br/&gt;
 Java를 주로 하다보니 기본적으로 formatting은 yyyy-MM-dd HH:mm:ss식의 영문 format에 익숙해져 있던 사람은 &lt;a href=&#34;https://godoc.org/time#example-Time-Format&#34;&gt;godoc&lt;/a&gt;을 보며 샘플값인지 예제인지 해깔릴 수 있다.&lt;br/&gt;&lt;/p&gt;
 

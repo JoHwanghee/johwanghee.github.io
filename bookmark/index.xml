@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bookmarks on Gopher johwanghee</title>
-    <link>https://jodev.net/bookmark/index.xml</link>
+    <link>https://johwanghee.github.io/bookmark/index.xml</link>
     <description>Recent content in Bookmarks on Gopher johwanghee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Thu, 23 Feb 2017 10:16:06 +0900</lastBuildDate>
-    <atom:link href="https://jodev.net/bookmark/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://johwanghee.github.io/bookmark/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>bookmarks go</title>
-      <link>https://jodev.net/bookmark/go/</link>
+      <link>https://johwanghee.github.io/bookmark/go/</link>
       <pubDate>Thu, 23 Feb 2017 10:16:06 +0900</pubDate>
       
-      <guid>https://jodev.net/bookmark/go/</guid>
+      <guid>https://johwanghee.github.io/bookmark/go/</guid>
       <description>
 
 &lt;h3 id=&#34;command-line-application-tool&#34;&gt;Command line application tool&lt;/h3&gt;
@@ -36,10 +36,10 @@ Ellipsis, GenerateRandomASCIIString, GenerateRandomAlphaOnlyString, InSlice, She
     
     <item>
       <title>bookmarks tools</title>
-      <link>https://jodev.net/bookmark/tools/</link>
+      <link>https://johwanghee.github.io/bookmark/tools/</link>
       <pubDate>Thu, 23 Feb 2017 10:16:06 +0900</pubDate>
       
-      <guid>https://jodev.net/bookmark/tools/</guid>
+      <guid>https://johwanghee.github.io/bookmark/tools/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.text-image.com/convert/ascii.html&#34;&gt;http://www.text-image.com/convert/ascii.html&lt;/a&gt; - 이미지를 아스키 코드로 변경&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://patorjk.com/software/taag/#p=display&amp;amp;f=Big&amp;amp;t=GO%20JODEV&#34;&gt;http://patorjk.com/software/taag/#p=display&amp;amp;f=Big&amp;amp;t=GO%20JODEV&lt;/a&gt; - 아스키코드 배너&lt;/li&gt;
