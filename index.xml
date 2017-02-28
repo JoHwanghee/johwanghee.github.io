@@ -6,8 +6,36 @@
     <description>Recent content on Gopher johwanghee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 23 Feb 2017 15:25:57 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 28 Feb 2017 11:00:38 +0900</lastBuildDate>
     <atom:link href="https://jodev.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>go에서 time사용법 관련 짧막한 글</title>
+      <link>https://jodev.net/post/2017-02-28-time/</link>
+      <pubDate>Tue, 28 Feb 2017 11:00:38 +0900</pubDate>
+      
+      <guid>https://jodev.net/post/2017-02-28-time/</guid>
+      <description>&lt;p&gt;go에서 시간을 다룰때 제일 먼저 당황하는건 format이 숫자 형식 이란것이다.(나만 그런가&amp;hellip;)&lt;br/&gt;
+Java를 주로 하다보니 기본적으로 formatting은 yyyy-MM-dd HH:mm:ss식의 영문 format에 익숙해져 있던 사람은 &lt;a href=&#34;https://godoc.org/time#example-Time-Format&#34;&gt;godoc&lt;/a&gt;을 보며 샘플값인지 예제인지 해깔릴 수 있다.&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;script src=&#34;https://gist.github.com/johwanghee/a5ad139fd26978b6494284f6cc23dd2d.js&#34;&gt;&lt;/script&gt;
+위 샘플을 보면 알수 있듯이 yyyy(year)는 2006 MM(Month)는 01등 으로 매핑된다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.quora.com/Why-is-the-Golang-reference-time-Jan-2-2006-at-3-04pm-MST&#34;&gt;Why is the Golang reference time Jan 2, 2006 at 3:04pm (MST)&lt;/a&gt;의 내용을&lt;br/&gt;
+빌려이야기 하자면 사용자에게 친숙하며 파서가 인식할수 있게 만들려고 한듯하다.&lt;br/&gt;
+(여담으로 2006년1월2일에는 새 오천원권 지폐가 유통되기 시작하였다.)&lt;br/&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Month = Jan (1)&lt;/li&gt;
+&lt;li&gt;Day = 2&lt;/li&gt;
+&lt;li&gt;Hour = 15 (3)&lt;/li&gt;
+&lt;li&gt;Minute = 4&lt;/li&gt;
+&lt;li&gt;Second = 5&lt;/li&gt;
+&lt;li&gt;Year = 6&lt;/li&gt;
+&lt;li&gt;Timezone offset = 7&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>ascii banner</title>
