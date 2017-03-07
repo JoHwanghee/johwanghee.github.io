@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://johwanghee.github.io/post/2017-03-05-urltip/</loc>
+    <lastmod>2017-03-06T17:42:59+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://johwanghee.github.io/post/2017-02-28-time/</loc>
     <lastmod>2017-02-28T11:00:38+09:00</lastmod>
   </url>
@@ -74,25 +79,37 @@
   
   <url>
     <loc>https://johwanghee.github.io/tags/go/</loc>
-    <lastmod>2017-02-28T11:00:38+09:00</lastmod>
+    <lastmod>2017-03-06T17:42:59+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://johwanghee.github.io/tags/golang/</loc>
-    <lastmod>2017-02-28T11:00:38+09:00</lastmod>
+    <lastmod>2017-03-06T17:42:59+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://johwanghee.github.io/</loc>
-    <lastmod>2017-02-28T11:00:38+09:00</lastmod>
+    <lastmod>2017-03-06T17:42:59+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johwanghee.github.io/tags/http/</loc>
+    <lastmod>2017-03-06T17:42:59+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://johwanghee.github.io/post/</loc>
-    <lastmod>2017-02-28T11:00:38+09:00</lastmod>
+    <lastmod>2017-03-06T17:42:59+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johwanghee.github.io/tags/redirect/</loc>
+    <lastmod>2017-03-06T17:42:59+09:00</lastmod>
     <priority>0</priority>
   </url>
   

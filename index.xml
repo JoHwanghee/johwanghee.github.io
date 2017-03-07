@@ -6,8 +6,52 @@
     <description>Recent content on Gopher johwanghee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 28 Feb 2017 11:00:38 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 06 Mar 2017 17:42:59 +0900</lastBuildDate>
     <atom:link href="https://johwanghee.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>go에서 redirect되는 url값 가져오기</title>
+      <link>https://johwanghee.github.io/post/2017-03-05-urltip/</link>
+      <pubDate>Mon, 06 Mar 2017 17:42:59 +0900</pubDate>
+      
+      <guid>https://johwanghee.github.io/post/2017-03-05-urltip/</guid>
+      <description>
+
+&lt;p&gt;&lt;a href=&#34;unsplash.com&#34;&gt;unsplash.com&lt;/a&gt;를 우연히 알게 되었는데 고퀄의 이미지를 무료로 얻을 수 있는 곳이다.&lt;br/&gt;
+해당 사이트에서 이미지를 다운 받으면 되지만 간단히 랜덤 이미지를 가져오려면 &lt;a href=&#34;source.unsplash.com&#34;&gt;source.unsplash.com&lt;/a&gt;을 이용하면된다.&lt;br/&gt;
+그런데 내가 하려던 서비스에서 적용하려 했더니 오류가 났는데&lt;br/&gt;
+source.unsplash.com에서 실제 이미지로 redirect를 시키기 때문이었다.&lt;/p&gt;
+
+&lt;h1 id=&#34;source-unsplash-com-api&#34;&gt;source.unsplash.com api&lt;/h1&gt;
+
+&lt;pre&gt;&lt;code&gt;https://source.unsplash.com/category/nature/1600x900
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h1 id=&#34;curl로-호출시-결과값&#34;&gt;curl로 호출시 결과값&lt;/h1&gt;
+
+&lt;pre&gt;&lt;code&gt;$ curl https://source.unsplash.com/category/nature/1600x900
+//결과 &amp;lt;html&amp;gt;&amp;lt;body&amp;gt;You are being &amp;lt;a href=&amp;quot;https://images.unsplash.co...
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;정확한 원인은 모르겠지만 적용서비스에서 아마 header값을 확인하기 때문이라고 추측된다.&lt;br/&gt;
+하여 실제 이미지가 있는 URL값이 필요하였는데 다행히 &lt;a href=&#34;http://stackoverflow.com/questions/16784419/in-golang-how-to-determine-the-final-url-after-a-series-of-redirects&#34;&gt;스택옹&lt;/a&gt;검색결과&lt;br/&gt;
+go에서 http.Get을 하는 경우 response의 URL을 가져올수 있다.&lt;/p&gt;
+
+&lt;h1 id=&#34;go에서-응답url-가져오기&#34;&gt;go에서 응답URL 가져오기&lt;/h1&gt;
+
+&lt;pre&gt;&lt;code&gt;res, err := http.Get(&amp;quot;https://source.unsplash.com/category/nature/1600x900&amp;quot;)
+if err != nil {
+    //오류시 처리
+}
+defer res.Body.Close()
+finalURL := res.Request.URL.String()
+
+//결과 https://images.unsplash.com/photo-1470920456752-d50214d7ed59?...
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>go에서 time사용법 관련 짧막한 글</title>
